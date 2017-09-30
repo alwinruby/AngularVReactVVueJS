@@ -4,7 +4,7 @@ class Faq extends Component {
     render() {
         return (
             <div>
-                Faq
+                FAQ
             </div>
         );
     }
